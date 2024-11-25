@@ -1,2 +1,2 @@
 # work in progress
-print("I'm working on this too.")
+print('This is the good version.')
