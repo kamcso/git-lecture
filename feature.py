@@ -1,1 +1,1 @@
-print('this is my feature')
+print('This is my feature.')
